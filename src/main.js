@@ -7,6 +7,11 @@ import router from './router'
 //vant组件 引入和注册
 import { NavBar } from 'vant';
 Vue.use(NavBar);
+import { ActionSheet } from 'vant';
+Vue.use(ActionSheet);
+import { Progress } from 'vant';
+Vue.use(Progress);
+
 
 //引入字体图标
 import './font/font-player/iconfont.css'

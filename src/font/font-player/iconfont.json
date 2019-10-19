@@ -20,13 +20,6 @@
       "unicode_decimal": 59121
     },
     {
-      "icon_id": "556480",
-      "name": "首页",
-      "font_class": "shouye",
-      "unicode": "e619",
-      "unicode_decimal": 58905
-    },
-    {
       "icon_id": "688128",
       "name": "下一个 下一首",
       "font_class": "xiayigexiayishou",
@@ -104,6 +97,13 @@
       "unicode_decimal": 58942
     },
     {
+      "icon_id": "6797706",
+      "name": "随机播放",
+      "font_class": "suijibofang1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
       "icon_id": "6998060",
       "name": "播放列表",
       "font_class": "bofangliebiao",
@@ -125,11 +125,11 @@
       "unicode_decimal": 59067
     },
     {
-      "icon_id": "8783193",
-      "name": "美食",
-      "font_class": "dibudaohanglan-",
-      "unicode": "e62e",
-      "unicode_decimal": 58926
+      "icon_id": "9629745",
+      "name": "bofang",
+      "font_class": "bofang",
+      "unicode": "ec8b",
+      "unicode_decimal": 60555
     },
     {
       "icon_id": "9677923",
